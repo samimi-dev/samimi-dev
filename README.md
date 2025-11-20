@@ -16,7 +16,7 @@
   - **LESS**
   - **HTML5/CSS3**
   - **Git | GitFlow | GitHub**
-
+- **4+ years** of Android development with Java
 - Master’s in Artificial Intelligence
 
 #### Email: hossein.samimi87@gmail.com
