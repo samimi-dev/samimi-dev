@@ -2,7 +2,7 @@
 
 # Hossein Samimi
 
-## Full-stack Web Developer
+## ⚡ Full-stack Web Developer
 - **5+ years** of experience in:
   - **JavaScript**
   - **React.js**
@@ -18,18 +18,9 @@
   - **Git | GitFlow | GitHub**
 - **4+ years** of Android development with Java
 - Master’s in Artificial Intelligence
-
-#### Email: hossein.samimi87@gmail.com
+#
+### 🌱 Constantly exploring, coding, and leveling up.
+#
+#### 📫 Email: hossein.samimi87@gmail.com
 
 [![Follow on LinkedIn](https://github.com/user-attachments/assets/aea0c5e7-ec45-4e7f-8367-a4a07a2794ed)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hossein-samimi)
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
