@@ -3,7 +3,7 @@
 # Hossein Samimi
 
 ## ⚡ Full-stack Web Developer
-- **5+ years** of experience in:
+- **6+ years** of experience in:
   - **JavaScript**
   - **React.js**
   - **Node.js**
